@@ -1,0 +1,14 @@
+{
+  "name": "cs-546-lab-3",
+  "version": "1.0.0",
+  "description": "This is lab 3",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omkar Sinha 10468312",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
